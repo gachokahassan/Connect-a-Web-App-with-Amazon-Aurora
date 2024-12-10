@@ -1,4 +1,4 @@
-# Connect a Web App with Aurora 🌐📊
+# Connect a Web App with Amazon Aurora 🌐📊
 
 [![AWS Aurora](https://img.shields.io/badge/AWS_Aurora-100000?style=flat&logo=amazondynamodb&logoColor=white&labelColor=232F3E&color=FF9900)](https://aws.amazon.com/rds/aurora/)
 [![EC2](https://img.shields.io/badge/AWS_EC2-100000?style=flat&logo=amazonec2&logoColor=white&labelColor=FF9900&color=232F3E)](https://aws.amazon.com/ec2/)
