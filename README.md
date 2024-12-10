@@ -98,9 +98,8 @@ The project took approximately **1 hour**, including:
 
 ---
 
-## Acknowledgments
-
-Special thanks to **NextWork.org** for providing the guidance and resources to complete this project successfully.
+## Community and Acknowledgment
+Special thanks to [NextWork Community](https://link.nextwork.org/app?utm_source=app&utm_medium=nav&utm_campaign=referral) and **Natasha Ong** ([LinkedIn](https://www.linkedin.com/in/natasha-ong)) for their valuable guidance and insights.
 
 ---
 
