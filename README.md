@@ -5,6 +5,19 @@
 
 ---
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [What is Amazon Aurora?](#what-is-amazon-aurora)
+- [How I Used Amazon Aurora in This Project](#how-i-used-amazon-aurora-in-this-project)
+- [One Thing I Didn't Expect](#one-thing-i-didnt-expect)
+- [Step-by-Step Details](#step-by-step-details)
+- [Time Taken](#time-taken)
+- [Community and Acknowledgment](#community-and-acknowledgment)
+- [Author](#author)
+
+---
+
 ## Introducing Today's Project!
 
 In this project, I connected a **Web App** hosted on an EC2 instance to an **Amazon Aurora Database**, enabling the app to interact with stored data effectively. The project involved setting up the database, configuring the web server, and verifying seamless data flow between the application and the database.
